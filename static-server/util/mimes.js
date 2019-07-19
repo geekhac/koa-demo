@@ -1,0 +1,22 @@
+const mimes = {
+  html: 'text/html',
+  css: 'text/css',
+  less: 'text/css',
+  js: 'text/javascript',
+  txt: 'text/plain',
+  xml: 'text/xml',
+  ico: 'image/x-icon',
+  gif: 'image/gif',
+  jpeg: 'image/jpeg',
+  jpg: 'image/jpeg',
+  png: 'image/png',
+  svg: 'image/svg+xml',
+  tiff: 'image/tiff',
+  wav: 'audio/x-wav',
+  wma: 'audio/x-ms-wma',
+  wmv: 'video/x-ms-wmv',
+  json: 'application/json',
+  pdf: 'application/pdf',
+  swf: 'application/x-shockwave-flash',
+}
+module.exports = mimes;
